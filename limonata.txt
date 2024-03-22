@@ -5,3 +5,4 @@ limonata tarifi
 4. esmer seker ekle
 5. biraz daha seker ekle
 6-Buz kupleri
+7. Nane ekle
